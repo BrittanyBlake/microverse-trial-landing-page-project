@@ -1,0 +1,16 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+    font-size: 18px;
+}
+
+#header{
+    margin: auto;
+}
+
+.container{
+    justify-content: flex-start;
+
+
+}
+
